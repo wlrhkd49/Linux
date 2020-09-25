@@ -11,7 +11,7 @@ then
       echo
    done
 else
-   echo "input value is not invaild"
+   echo "input value is invaild"
 fi
 
 exit 0
